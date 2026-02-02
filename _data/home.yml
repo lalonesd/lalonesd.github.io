@@ -6,22 +6,22 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://lalone-sd.com
 
 project_entries:
-  - title: Project 1
+  - title: LaLone Service Design
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: SpaceBoss
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: CyberSecurity Expansion
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Hazard Sommelier
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Nick's homepage
+    url: https://nicklalone.com
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: bluesky
+    url: https://bsky.app/profile/nicklalone.com
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/nicklalone
 
   - title: feed
     url: feed.xml
