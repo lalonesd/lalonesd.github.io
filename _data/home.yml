@@ -1,4 +1,4 @@
- navbar_entries:
+navbar_entries:
   - title: about
     url: about
 
@@ -60,13 +60,13 @@ footer_entries:
   - title: Nick LaLone
     url: https://nicklalone.com
 
-  - title: bluesky
+  - title: Bluesky
     url: https://bsky.app/profile/nicklalone.com
 
-  - title: github
+  - title: Github
     url: https://github.com/nicklalone
 
-  - title: feed
+  - title: Feed
     url: feed.xml
 
 misc_entries:
@@ -84,7 +84,7 @@ misc_entries:
     url: false
 
   - title: moonwalk on the Internet
-    url: false
+    url: true
     entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk
