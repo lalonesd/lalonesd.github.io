@@ -9,9 +9,9 @@ navbar_entries:
     url: https://lalone-sd.com
 
 project_entries:
-  - title: LaLoneServiceDesign
+  - title: LaLone Service Design
     url: overview-post
-    desc: This began during COVID and has evolved over time.
+    desc: What is LaLone Service Design?
 
 
   - title: SpaceBoss
