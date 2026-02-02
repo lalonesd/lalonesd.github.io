@@ -10,7 +10,7 @@
 
 project_entries:
   - title: LaLone Service Design
-    url: LaLone Service Design
+    url: overview-post
     desc: This new project is one that began during COVID and has evolved over time.
     highlight: WIP
 
@@ -57,7 +57,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: Nick's homepage
+  - title: Nick LaLone
     url: https://nicklalone.com
 
   - title: bluesky
