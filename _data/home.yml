@@ -1,4 +1,4 @@
-navbar_entries:
+ navbar_entries:
   - title: about
     url: about
 
@@ -10,20 +10,23 @@ navbar_entries:
 
 project_entries:
   - title: LaLone Service Design
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: LaLone Service Design
+    desc: This new project is one that began during COVID and has evolved over time.
+    highlight: WIP
 
   - title: SpaceBoss
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: A new era of Wargaming that re-connects past and present.
+    highlight: WIP
 
   - title: CyberSecurity Expansion
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Cybersecurity is often missing in wargames for obvious reasons. How can we change it?
+    highlight: WIP
 
   - title: Hazard Sommelier
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Every hazard event brings sub-events with it. How can we incorporate those training to see past the immediate?
     highlight: WIP
 
   - title: Project 5
