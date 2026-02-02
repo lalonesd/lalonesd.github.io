@@ -11,22 +11,22 @@
 project_entries:
   - title: LaLone Service Design
     url: overview-post
-    desc: This new project is one that began during COVID and has evolved over time.
-    highlight: WIP
+    desc: This began during COVID and has evolved over time.
+
 
   - title: SpaceBoss
     url: overview-post
-    desc: A new era of Wargaming that re-connects past and present.
-    highlight: WIP
+    desc: An attempt to create a new era of wargaming.
+
 
   - title: CyberSecurity Expansion
     url: overview-post
-    desc: Cybersecurity is often missing in wargames for obvious reasons. How can we change it?
+    desc: Cybersecurity needs representation in wargaming.
     highlight: WIP
 
   - title: Hazard Sommelier
     url: overview-post
-    desc: Every hazard event brings sub-events with it. How can we incorporate those training to see past the immediate?
+    desc: How can we incorporate those training to see past the immediate?
     highlight: WIP
 
   - title: Project 5
