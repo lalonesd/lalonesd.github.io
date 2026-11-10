@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: LaLone Service Design
+title: LSD
 description: I can help you better integrate technology cheaply, efficiently, and quietly.
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
@@ -154,7 +154,7 @@ footer_description: Here, I share ideas, tools, and methods that help me balance
 # Social Settings
 social:
 - {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/nicolas-lalone"}
-- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/nicklalone.com"}
+# - {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/nicklalone.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/nicklalone"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
@@ -176,7 +176,7 @@ contact:
 # Comment Section (Disqus)
 disqus:
   enable: true
-  disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+  disqus_identifier: lsd-2 # Add your shortname for Disqus Comment. For example anvod-studio-test
   disqus_title: Start the conversation
   disqus_button_text: Show Comments
 
