@@ -154,7 +154,7 @@ footer_description: Here, I apply service design to train from blue sky to grey 
 # Social Settings
 social:
 - {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/nicolas-lalone"}
-# - {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/nicklalone.com"}
+- {icon: "fa-brands fa-square-bluesky", name: "Bluesky", link: "https://bsky.app/profile/nicklalone.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/nicklalone"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
