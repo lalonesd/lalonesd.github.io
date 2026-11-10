@@ -90,7 +90,7 @@ blog:
 #-------------------------------
 # Tags Section Settings
 tags_section:
-  enable: true
+  enable: false
   tags_section_title: Hacker’s Haven
   tags:
     - tag: "Project Reports"
@@ -107,7 +107,7 @@ tags_section:
 # Videos Section Settings
 videos_section:
   enable: true
-  videos_section_title: Latest Videos
+  videos_section_title: Lectures, Presentations, Tutorials
 
 
 #-------------------------------
@@ -147,7 +147,7 @@ mailchimp:
 
 #-------------------------------
 # Footer Settings
-footer_description: Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+footer_description: Here, I apply service design to train from blue sky to grey sky and back again from your personnel to the community. I use the framework of service design to focus my work across the whole community, include the technologies and infrastructure required to maintain your community.
 
 
 #-------------------------------
